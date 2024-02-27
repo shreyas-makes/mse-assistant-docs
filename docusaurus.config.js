@@ -68,7 +68,7 @@ const config = {
       navbar: {
         title: 'Noora Health',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Noora Health',
           src: 'img/logo.svg',
         },
         items: [
