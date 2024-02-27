@@ -20,8 +20,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'noora-health', // Usually your GitHub org/user name.
-  projectName: 'mse-assistant', // Usually your repo name.
+  organizationName: 'shreyas314159', // Usually your GitHub org/user name.
+  projectName: 'mse-assistant-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
